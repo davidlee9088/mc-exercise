@@ -12,6 +12,10 @@ Hanbyeol Lee is Ted
 Mattheus is Alice
 
 
+ahhh random Typing to ensure an error
+
+
+
 Matteus is Bob
 Amy is Carol
 
@@ -20,3 +24,4 @@ Amy is Carol
 
 David is ted
 David is Alice
+
