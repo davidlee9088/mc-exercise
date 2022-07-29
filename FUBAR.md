@@ -35,3 +35,6 @@ Matteus is Carol
 Amy is Ted not David
 David may be suffering from DID...
 
+BOB and Carol
+David is BOB
+Carol is David
