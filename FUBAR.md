@@ -26,3 +26,6 @@ David is ted
 David is Alice
 
 Matteus is Carol  
+
+Amy is Ted not David
+David may be suffering from DID...
