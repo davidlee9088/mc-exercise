@@ -24,12 +24,12 @@ Amy is Carol
 
 David is ted
 David is Alice
-
+---
 ----
 Hanbyeol Is bob
 Mattheus is Carol 
 HL/MG Branch
-
+Random COde!!!
 Matteus is Carol  
 
 Amy is Ted not David
@@ -39,3 +39,4 @@ BOB and Carol
 David is BOB
 Carol is David
 LAST RUN 
+Ted is Matteus 
